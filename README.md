@@ -1,0 +1,1 @@
+This repository contains my Recipes project for the Odin Project's Foundation.
