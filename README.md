@@ -1,1 +1,1 @@
-This repository contains my Recipes project for the Odin Project's Foundation.
+This repository contains my Recipes project for the Odin Project's Foundation. Admittedly I have never properly cooked in my life, so apologies for that.
